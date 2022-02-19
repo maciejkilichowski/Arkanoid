@@ -1,0 +1,13 @@
+C:\Users\macie\source\repos\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe.config
+C:\Users\macie\source\repos\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe
+C:\Users\macie\source\repos\Arkanoid\Arkanoid\bin\Debug\Arkanoid.pdb
+C:\Users\macie\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.SuggestedBindingRedirects.cache
+C:\Users\macie\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+C:\Users\macie\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.cache
+C:\Users\macie\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.exe
+C:\Users\macie\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.pdb
+C:\Users\macie\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.GameScreen.resources
+C:\Users\macie\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.GameStartMenu.resources
+C:\Users\macie\source\repos\Arkanoid\Arkanoid\obj\Debug\Arkanoid.HelpScreen.resources
